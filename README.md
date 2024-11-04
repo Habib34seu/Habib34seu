@@ -1,8 +1,13 @@
-### Hi there 👋, I'm Habibur Rahman
-#### Software Engineer
 ![Software Engineer](https://media.licdn.com/dms/image/v2/D5616AQEyXKUJ6Lf8kQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1685044399546?e=1736380800&v=beta&t=W3dux1ODe1OmY10-s_PujBzwvkylqJAdnbHfCTlZwnY)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+### Hi there 👋, I'm Habibur Rahman
+#### Software Engineer
+
+I am an experienced ASP .Net Developer with a passion for designing and implementing robust and scalable web applications. With 5 years of experience in the field, I have developed expertise in database design, database programming and web application development using the latest technologies.
+
+My technical skills include proficiency in C#, ASP .Net MVC, ADO .NET, .Net Core, Web API, JavaScript, Ajax, jQuery, Angular, HTML, CSS, SQL, PL/SQL,TSQL, HTML Reports, Cristal Reports, Ms Sql Server, Oracle Database 11g, 12c.
+
+In my career, I have worked on various projects like HRM Payroll, Merchandising, CRM, POS, Production, Accounts, Commercial that have enhanced my technical skills and allowed me to develop a deep understanding of how to leverage technology to solve complex business problems. My objective is to continue growing my skills and experience as an Database and ASP .Net Developer while contributing to the success of my employer.
 
 Skills: C, C++, C#, .Net Core, MVC, API, ADO .Net, MS Sql Server, Oracle Database 11g, 12c, 19c, HTML, CSS, JavaScript, jQuery, Ajax, CQRS, DDD, Clean Architecture
 
