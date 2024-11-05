@@ -1,5 +1,3 @@
-![Software Engineer](https://media.licdn.com/dms/image/v2/D5616AQEyXKUJ6Lf8kQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1685044399546?e=1736380800&v=beta&t=W3dux1ODe1OmY10-s_PujBzwvkylqJAdnbHfCTlZwnY)
-
 ### Hi there 👋, I'm Habibur Rahman
 #### Software Engineer
 
