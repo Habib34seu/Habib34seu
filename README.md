@@ -15,7 +15,7 @@ In my career, I have worked on various projects like HRM Payroll, Merchandising,
 
 Skills: C, C++, C#, .Net Core, MVC, API, ADO .Net, MS Sql Server, Oracle Database 11g, 12c, 19c, HTML, CSS, JavaScript, jQuery, Ajax, CQRS, DDD, Clean Architecture
 
-- 🔭 I’m currently working on Pakiza Software Ltd 
+- 🔭 I’m currently working on Lead Soft Ltd. 
 - 🌱 I’m currently learning DevOps 
 
 
